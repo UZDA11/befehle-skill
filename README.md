@@ -6,7 +6,6 @@ Say hey mycroft, turn the light on and mycroft will publish on to light/turn.
 
 ## Examples
 * ""turn the light on""
-* ""turn thr light off""
 
 ## Credits
 UZDA11
